@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>American in France Blog</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>American in France Blog</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hi! I'm [Your Name], an American living in France. I moved here [year] and have been exploring the beautiful culture, cuisine, and countryside ever since. Join me on my adventures as I share my experiences and tips for living in this incredible country.</p>
+    </section>
+
+    <section id="blog">
+        <h2>Blog</h2>
+        <article>
+            <h3>My First Week in France</h3>
+            <p>[Your blog post content goes here...]</p>
+        </article>
+        <article>
+            <h3>Exploring Paris</h3>
+            <p>[Your blog post content goes here...]</p>
+        </article>
+        <!-- Add more blog posts as needed -->
+    </section>
+
+    <section id="gallery">
+        <h2>Gallery</h2>
+        <!-- Add your photos here -->
+        <img src="paris.jpg" alt="Paris">
+        <img src="countryside.jpg" alt="French countryside">
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me at <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 American in France Blog</p>
+    </footer>
+</body>
+</html>
